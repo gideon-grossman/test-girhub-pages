@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/test-girhub-pages/static/css/main.073c9b0a.css",
-    "main.js": "/test-girhub-pages/static/js/main.10e7530b.js",
-    "static/js/787.ae70009a.chunk.js": "/test-girhub-pages/static/js/787.ae70009a.chunk.js",
-    "static/media/logo.svg": "/test-girhub-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/test-girhub-pages/index.html",
-    "main.073c9b0a.css.map": "/test-girhub-pages/static/css/main.073c9b0a.css.map",
-    "main.10e7530b.js.map": "/test-girhub-pages/static/js/main.10e7530b.js.map",
-    "787.ae70009a.chunk.js.map": "/test-girhub-pages/static/js/787.ae70009a.chunk.js.map"
+    "main.css": "/test-girhub-pages/foo/static/css/main.073c9b0a.css",
+    "main.js": "/test-girhub-pages/foo/static/js/main.6e0d7059.js",
+    "static/js/787.ae70009a.chunk.js": "/test-girhub-pages/foo/static/js/787.ae70009a.chunk.js",
+    "static/media/logo.svg": "/test-girhub-pages/foo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/test-girhub-pages/foo/index.html",
+    "main.073c9b0a.css.map": "/test-girhub-pages/foo/static/css/main.073c9b0a.css.map",
+    "main.6e0d7059.js.map": "/test-girhub-pages/foo/static/js/main.6e0d7059.js.map",
+    "787.ae70009a.chunk.js.map": "/test-girhub-pages/foo/static/js/787.ae70009a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.10e7530b.js"
+    "static/js/main.6e0d7059.js"
   ]
 }
