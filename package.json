@@ -1,6 +1,6 @@
 {
   "name": "test-github-pages",
-  "homepage": "https://gideon-grossman.github.io/test-girhub-pages/foo",
+  "homepage": "https://gideon-grossman.github.io/test-girhub-pages",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
